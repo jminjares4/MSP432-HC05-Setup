@@ -14,7 +14,7 @@ configuration.
 
 
 ## **Testing**
-This are useful AT+COMMANDS to test the functionality of the HC05/HC06 Bluetooth modules.
+These are useful AT+COMMANDS to test the functionality of the HC05/HC06 Bluetooth modules.
 
 ```
 AT
@@ -28,7 +28,7 @@ AT+ROLE?
 ```
 
 ## **Reference**
-This are the list of [AT+COMMANDS](https://s3-sa-east-1.amazonaws.com/robocore-lojavirtual/709/HC-05_ATCommandSet.pdf) avaiable for HC05/HC06 Bluetooth Modules.
+This is the list of [AT+COMMANDS](https://s3-sa-east-1.amazonaws.com/robocore-lojavirtual/709/HC-05_ATCommandSet.pdf) avaiable for HC05/HC06 Bluetooth Modules.
 
 ## **Author:**
 * [**Jesus Minjares**](https://github.com/jminjares4)<br>

@@ -125,4 +125,3 @@ void sendCharUART2(char c){
     EUSCI_A2->TXBUF = c; //set char to TXBUF
     return;
 }
-

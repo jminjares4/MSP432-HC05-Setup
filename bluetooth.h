@@ -22,4 +22,5 @@ void sendUART0(char *message);
 void sendUART2(char *message);
 void sendCharUART0(char c);
 void sendCharUART2(char c);
+
 #endif /* BLUETOOTH_H_ */

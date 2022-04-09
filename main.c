@@ -33,6 +33,7 @@
  *
  *  @copyright Copyright (c) 2022
 */
+
 #include "msp.h"
 #include "string.h"
 #include "bluetooth.h"
@@ -44,7 +45,7 @@ char keyboardBuffer[BUFFER_SIZE]; // UART0 buffer
 uint8_t keyboardIndex = 0;        // UART0 buffer index
 
 void main(void)
- {
+{
     WDT_A->CTL = WDT_A_CTL_PW | WDT_A_CTL_HOLD;
 
     /*Set DCO Clock @ 3Mhz*/

@@ -1,10 +1,10 @@
 # MSP432-HC05-Setup :zap:
 
 ## **Description**
-    The purpose of this code is to reconfigure the HC05/HC06
-    bluetooth modules. AT+COMMANDS are use to update and get HC05/HC06
-    bluetooth modules. This repository will facilitate the use of HC05/HC06
-    configuration.
+The purpose of this code is to reconfigure the HC05/HC06
+bluetooth modules. AT+COMMANDS are use to update and get HC05/HC06
+bluetooth modules. This repository will facilitate the use of HC05/HC06
+configuration.
 
 ## **Development**
 | Microcontroller | Software | IDE   |
